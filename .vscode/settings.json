@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    },
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
