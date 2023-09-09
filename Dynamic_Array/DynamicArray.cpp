@@ -1,7 +1,6 @@
 // Dynamic Array In C solution for Hacker Rank
 
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
 
 int *total_number_of_books;
