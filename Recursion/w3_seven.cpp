@@ -4,7 +4,8 @@
 
 int greatestCommonDivider (int num1, int num2)
 {
-    
+
+    return greatestCommonDivider (num1, num2);
 }
 
 
